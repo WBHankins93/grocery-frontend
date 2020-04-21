@@ -1,0 +1,41 @@
+.Wrapper {
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+    
+    
+}
+
+.Form {
+    display: flex;
+    flex-direction: column;
+}
+
+#title{
+    margin-top: 15px;
+    text-align: center;
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+.button {
+    padding: 5px;
+    border-radius: 10px;
+    background-color: #0f62fe;
+    color: white;
+    border-color: transparent;
+    border-style: solid;
+    margin-left: 10px;
+}
+
+.wrapperItems {
+    margin: 10px;
+    justify-content: center;
+}
+
+.itemDiv {
+    display: flex;
+    margin-bottom: 15px;
+}
